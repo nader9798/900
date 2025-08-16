@@ -1,19 +1,18 @@
 # PSFree version 1.5.0
 
-Lapse Kex ported to 9.00 - Still WIP
+تم نقل Lapse Kex إلى الإصدار 9.00 - لا يزال قيد التطوير
 
-Very fast and reliable but can KP :P
+سريع وموثوق للغاية، ولكن هل يمكنه استخدام KP :P
 
-- Needs a bin loader on Port 9020.
-- Some performance Tweaks??.
-- Add sysveri Patch
-  
-PR are welcome 
+- يحتاج إلى أداة تحميل على المنفذ 9020.
+- هل هناك بعض التعديلات على الأداء؟
+- إضافة تصحيح sysveri
 
-PSFree is a collection of exploits for the PS4 console. The main focus of the 
-repo is for the PS4 but we try to make things portable to PS5.
+نرحب بطلبات العلاقات العامة
 
-* Exploits
+PSFree عبارة عن مجموعة من الثغرات الأمنية لجهاز PS4. يركز هذا المستودع بشكل رئيسي على PS4، لكننا نسعى جاهدين لجعله قابلاً للنقل إلى PS5.
+
+* الثغرات الأمنية
   * PSFree: src/psfree.mjs
   * Lapse (kernel): src/scripts/lapse.mjs
 
